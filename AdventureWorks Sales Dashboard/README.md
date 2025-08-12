@@ -1,8 +1,7 @@
 # AdventureWorks Sales Dashboard
 
 ## Summary
-Power BI dashboard analyzing reseller sales from the AdventureWorks dataset.  
-Includes key sales KPIs, interactive visuals, and **Role-Level Security (RLS)** for restricted data access.
+Power BI project analyzing reseller sales with KPIs for total sales, YoY growth, top products, and regions. Includes interactive filters, drill-through navigation, and Role-Level Security (VP, Manager, Rep) for secure, role-based access. Built with a star schema for efficient reporting.
 
 ## Data Model
 **Fact Table:**
